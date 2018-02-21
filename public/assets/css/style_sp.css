@@ -1,0 +1,2776 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*------------ page design css ---------- */
+
+/*------------ toppage ------------ */
+
+
+#toppage{
+	width:100%;
+	float:left;
+	clear:both;
+	display:block;
+	padding:0;
+	margin:0;
+	background:#737373;
+}
+
+#toppage h1{
+	width:100%;
+	float:left;
+}
+
+#toppage h2{
+	color:#FFFFFF;
+	font-size:16px;
+	border-bottom:#FFFFFF solid 1px;
+	padding-left:5px;
+}
+
+
+#toppage #topmenu{
+	width:100%;
+	float:left;
+}
+
+#toppage #topmenu ul{
+	padding:5px;
+	margin:0 auto;
+	width:310px;
+}
+
+#toppage #topmenu ul li{
+	width:100px;
+	height:100px;
+	float:left;
+	text-align:center;
+	font-weight:bold;
+	font-size:15px;
+}
+
+#toppage #topmenu .n1{ background:url(../imgsp/top/bt1.png) no-repeat; background-size:100px 100px;margin-right:5px;margin-bottom:5px;}
+#toppage #topmenu .n2{ background:url(../imgsp/top/bt2.png) no-repeat; background-size:100px 100px;margin-right:5px;margin-bottom:5px;}
+#toppage #topmenu .n3{ background:url(../imgsp/top/bt3.png) no-repeat; background-size:100px 100px;margin-bottom:5px;}
+#toppage #topmenu .n4{ background:url(../imgsp/top/bt4.png) no-repeat; background-size:100px 100px;margin-right:5px;margin-bottom:5px;}
+#toppage #topmenu .n5{ background:url(../imgsp/top/bt5.png) no-repeat; background-size:100px 100px;margin-right:5px;margin-bottom:5px;}
+#toppage #topmenu .n6{ background:url(../imgsp/top/bt6.png) no-repeat; background-size:100px 100px;margin-bottom:5px;}
+#toppage #topmenu .n7{ background:url(../imgsp/top/bt7.png) no-repeat; background-size:100px 100px;margin-right:5px;margin-bottom:5px;}
+#toppage #topmenu .n8{ background:url(../imgsp/top/bt8.png) no-repeat; background-size:100px 100px;margin-right:5px;margin-bottom:5px;}
+#toppage #topmenu .n9{ background:url(../imgsp/top/bt9.png) no-repeat; background-size:100px 100px;margin-bottom:5px;}
+
+#toppage #topmenu ul li a{
+	width:100px;
+	height:35px;
+	padding-top:65px;
+	color:#FF0000;
+	float:left;
+	display:block;
+	text-decoration:none;
+	line-height:16px;
+}
+
+#toppage #sub_b{
+	width:100%;
+	float:left;
+	background:#FFFFFF;
+}
+
+#toppage #sub_b ul{
+	padding:10px;
+}
+
+#toppage #sub_b ul a{
+	width:100%;
+	float:left;
+	margin-bottom:10px;
+}
+
+
+
+
+
+/*------------ sitemap ------------ */
+
+
+
+#sitemap{
+	width:100%;
+	float:left;
+}
+
+#sitemap ul{
+	width:100%;
+	float:left;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#sitemap ul strong{
+	background:#CCCCCC;
+	width:100%;
+	float:left;
+	margin:5px 0;
+	padding:5px 10px;
+	display:block;
+	clear:both;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#sitemap ul li{
+	width:100%;
+	display:block;
+	float:left;
+	list-style:circle;
+	padding:0 10px;
+	height:30px;
+	line-height:30px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+
+
+
+
+/*------------ inspection ------------ */
+
+
+#inspection{
+	width:100%;
+	float:left;
+}
+
+
+#inspection #jpmap{
+	margin:10px auto;
+	width:320px;
+}
+
+
+
+
+
+#inspection #r_ins{
+	width:100%;
+	margin:10px 0 20px 0;
+	float:left;
+	display:block;
+	clear:both;
+}
+
+#inspection #r_ins #r_ins_img{
+	width:35%;
+	float:left;
+}
+
+#inspection #r_ins #r_ins_img img{
+	width:100%;
+}
+
+#inspection #r_ins #r_ins_txt{
+	width:60%;
+	float:right;
+	margin-right:10px;
+}
+
+#inspection #r_ins #r_ins_txt strong{
+	width:125px;
+	height:40px;
+	background:url(../imgsp/inspection/bgpoint.png) no-repeat;
+	background-size:125px 40px;
+	text-align:center;
+	line-height:40px;
+	font-weight:bold;
+	color:#FFFFFF;
+	float:left;
+	display:block;
+	font-size:16px;
+}
+
+#inspection #r_ins #r_ins_txt .redb{
+	width:100%;
+	float:left;
+	margin:5px 0;
+	font-size:13px;
+	line-height:16px;
+}
+
+#inspection #r_ins p{
+	padding:10px;
+	float:left;
+	clear:both;
+	display:block;
+	width:100%;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	font-size:12px;
+}
+
+
+#inspehow{
+	width:100%;
+	float:left;
+	display:block;
+	clear:both;
+	margin:10px 0;
+}
+
+#inspehow ul{
+	margin:0;
+	padding:0;
+}
+
+#inspehow ul li{
+	width:100%;
+	float:left;
+	padding:10px;
+	line-height:18px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#inspehow ul li img{
+	margin-bottom:5px;
+}
+
+#inspehow ul .bgray{
+	background:#E6E6E6;
+}
+
+#inspehow ul .bgwhite{
+	background:#F5F5F5;
+}
+
+#inspehow ul strong{
+	background:#006837;
+	color:#FFF;
+	width:100%;
+	float:left;
+	padding:5px;
+	margin-bottom:5px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#ins_price{
+	width:100%;
+	float:left;
+	margin-bottom:10px;
+	text-align:center;
+	border-top:solid 1px #000000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	display:none;
+}
+
+#ins_price tr{
+	border-bottom:solid 1px #000000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#inspection .bt_car{
+	width:100%;
+	height:40px;
+	display:block;
+	margin:5px 0;
+	clear:both;
+	line-height:40px;
+	font-weight:bold;
+	font-size:14px;
+	cursor:pointer;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	padding:0 5px;
+}
+#inspection .bt_car span{
+  width: 20px;
+  height: 20px;
+  float: left;
+  display: block;
+  color: #000;
+  font-weight: bold;
+  background: #FFFFFF;
+  text-align: center;
+  margin: 10px 5px 10px 0;
+  line-height: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+}
+
+#inspection .bt_car_1{background:#D8EFFC;}
+#inspection .bt_car_2{background:#F6F3E3;}
+#inspection .bt_car_3{background:#EBF0CC;}
+#inspection .bt_car_4{background:#E8D7D1;}
+#inspection .bt_car_5{background:#EFE5D1;}
+
+#ins_price .bg1{
+	width:30%;
+	background:#CCCCCC;
+	padding:5px;
+	font-weight:bold;
+	border-right:1px solid #000;
+	border-left:1px solid #000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#ins_price .bg2{
+	width:70%;
+	background:#D8EFFC;
+	border-right:1px solid #000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#ins_price .bg3{
+	width:70%;
+	background:#F6F3E3;
+	border-right:1px solid #000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#ins_price .bg4{
+	width:70%;
+	background:#EBF0CC;
+	border-right:1px solid #000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#ins_price .bg5{
+	width:70%;
+	background:#E8D7D1;
+	border-right:1px solid #000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#ins_price .bg6{
+	width:70%;
+	background:#EFE5D1;
+	border-right:1px solid #000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#ins_price strong{
+	font-size:20px;
+	padding:5px 0;
+}
+
+#ins_price .red{
+	color:#F00;
+}
+
+#ins_price label{
+	color:#FF0000;
+	font-weight:bold;
+	cursor:pointer;
+	
+}
+
+#ins_price select{
+	padding:0 5px;
+	height:38px;
+	font-weight:bold;
+	width:95%;
+	color:#FF0000;
+    font-size:100%;
+	margin:5px 0;
+    border: 1px solid #B3B3B3;  
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#inspection #ins_course{
+	width:100%;
+	float:left;
+	background:#CCCCCC;
+	margin:10px 0;
+	border:solid 1px #CCCCCC;
+}
+
+#inspection #ins_course .basicc{
+	background:#C09772;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:12px;
+	padding:2px;
+	border-right:solid 1px #CCCCCC;
+	border-top:solid 1px #CCCCCC;
+	text-align:right;
+}
+
+#inspection #ins_course .economy{
+	background:#33CCCC;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:12px;
+	padding:2px;
+	border-right:solid 1px #CCCCCC;
+	border-top:solid 1px #CCCCCC;
+	text-align:right;
+}
+
+#inspection #ins_course .sefty{
+	background:#060;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:12px;
+	padding:2px;
+	border-right:solid 1px #CCCCCC;
+	border-top:solid 1px #CCCCCC;
+	text-align:right;
+}
+
+#inspection #ins_course .premium{
+	background:#C06;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:12px;
+	padding:2px;
+	border-right:solid 1px #CCCCCC;
+	border-top:solid 1px #CCCCCC;
+	text-align:right;
+}
+
+#inspection #ins_course .about{
+	background:#000;
+	color:#FFFFFF;
+	font-size:10px;
+	padding:2px;
+	border-right:solid 1px #CCCCCC;
+	border-top:solid 1px #CCCCCC;
+	text-align:center;
+}
+
+#inspection #ins_course .ares{
+	font-size:20px;
+	padding:2px;
+	border-right:solid 1px #fff;
+	border-top:solid 1px #fff;
+	text-align:center;
+}
+
+#inspection .ecocc{
+	background:#33CCCC;
+	color:#FFF;
+}
+
+#inspection .bascc{
+	background:#C09772;
+	color:#FFF;
+}
+
+#inspection .safetycc{
+	background:#060;
+	color:#FFFFFF;
+}
+
+#inspection .premcc{
+	background:#C06;
+	color:#FFFFFF;
+}
+
+#inspection .fulmcc{
+	background:#C09772;
+	color:#FFFFFF;
+}
+
+
+/*------------ repair ------------ */
+
+
+#repair{
+	width:100%;
+	float:left;
+}
+
+#repair #tabs{
+	width:100%;
+	padding:0;
+	margin:10px 0 20px 0;
+	border:none;
+	
+}
+
+#repair #tabs ul{
+	width:100%;
+	background:#fff;
+	border:none;
+	padding:0;
+	margin:0;
+	border-radius:0;
+	-moz-border-radius:0;
+	-webkit-border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#repair #tabs ul li{
+	font-size:15px;
+	font-weight:bold;
+	margin:0;
+	padding:0;
+	width:25%;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#repair #tabs ul li a{
+	padding:0 10px;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	width:100%;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#repair .ui-state-active a, #repair .ui-state-active a:link, #repair .ui-state-active a:visited{
+	background:#00A99D;
+	color:#FFF;
+}
+
+#repair .ui-state-default, #repair .ui-widget-content #repair .ui-state-default, #repair .ui-widget-header .ui-state-default {
+	background:#003686;
+	border-right:solid 1px #FFFFFF;
+	border-left:none;
+}
+
+#repair .ui-state-default a, #repair .ui-state-default a:link, #repair .ui-state-default a:visited {
+	color:#FFF;
+}
+
+
+#repair #tabs p{
+	background:#00A99D;
+	color:#FFFFFF;
+	font-weight:bold;
+	width:100%;
+	float:left;
+	margin:0 0 10px 0;
+	padding:10px;
+	font-size:14px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#repair .ui-tabs .ui-tabs-panel{
+	padding:0!important;
+}
+
+
+	
+
+#repair .schedule{
+	width:100%;
+	margin:10px 0;
+	font-weight:bold;
+	border-top:1px solid #000;
+	float:left;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#repair .schedule td{
+	padding:5px;
+	border-bottom:1px solid #000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+
+#repair .bgtit{
+	background:#F00;
+	color:#FFF;
+}
+
+#repair .ssad{
+	width:100%;
+}
+
+#repair .schedule span{
+	color:#FF0000;
+}
+
+
+#repair .schedule a{
+	color:#009;
+}
+
+#repair .schedule a:hover{
+	background:#CCC;
+}
+
+#repair #r_how{
+	width:100%;
+	margin:10px 0;
+	float:left;
+	display:block;
+	clear:both;
+}
+
+#repair #r_how #r_how_img{
+	width:100px;
+	float:left;
+	margin-right:10px;
+}
+
+#repair #r_how #r_how_img img{
+	width:100px;
+}
+
+#repair #r_how #r_how_txt{
+	width:100%;
+}
+
+#repair #r_ind{
+	width:100%;
+	margin:10px 0;
+	float:left;
+	display:block;
+	clear:both;
+}
+
+#repair #r_ind #r_ind_img{
+	width:100px;
+	float:left;
+	margin-right:10px;
+}
+#repair #r_ind #r_ind_img img{
+	width:100px;
+}
+
+#repair #r_ind #r_ind_txt{
+	width:100%;
+	padding:0 10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+
+#repair #r_ind #r_ind_img2{
+	width:100%;
+	float:left;
+}
+
+#repair #r_ind #r_ind_txt2{
+	width:100%;
+	float:left;
+	background:#003686;
+	color:#FFF;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#naosprice{
+	width:100%;
+	float:left;
+}
+
+#naosprice td{
+	text-align:center;
+	padding-bottom:20px;
+	font-size:14px;
+	font-weight:bold;
+}
+
+#naosprice img{
+	width:100%;
+}
+
+#naosprice td .red{
+	color:#FF0000;
+}
+
+#naosprice td .blue{
+	color:#0068B7;
+}
+
+
+#naostec{
+	width:100%;
+	float:left;
+	display:block;
+	clear:both;
+	margin:10px 0;
+	
+}
+
+#naostec ul{
+	margin:0;
+	padding:0;
+}
+
+#naostec ul li{
+	width:100%;
+	float:left;
+	padding:10px;
+	line-height:18px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#naostec ul li img{
+	margin-bottom:5px;
+	width:100%;
+}
+
+#naostec ul .bgray{
+	background:#E6E6E6;
+}
+
+#naostec ul .bgwhite{
+	background:#F5F5F5;
+}
+	
+
+/*------------ coating ------------ */
+
+
+#coating{
+	width:100%;
+	float:left;
+}
+
+#coating_table{
+	width:100%;
+	float:left;
+	border:solid 1px #000000;
+	margin-bottom:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#coating_table td{
+	text-align:center;
+	padding:5px 0;
+	border-bottom:solid 1px #000000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#coating_table td h1{
+	background:#FFFFFF;
+	font-size:14px;
+	width:200px;
+	margin:5px auto;
+}
+
+#coating_table td p{
+	margin:5px auto;
+}
+
+#coating_table td .red{
+	width:200px;
+	font-size:16px;
+	color:#FF0000;
+	font-weight:bold;
+	margin:5px auto;
+}
+
+#coating_table .bgy{ background:#EEEFEF; width:30%; font-weight:bold;}
+#coating_table .bbl{ background:#D8EFFC; width:70%;}
+#coating_table .byl{ background:#F6F3E3; width:70%;}
+#coating_table .bgg{ background:#EBF0CC; width:70%;}
+#coating_table .brd{ background:#EFE5D1; width:70%;}
+
+
+#coating #wash{
+	width:100%;
+	float:left;
+	margin-bottom:20px;
+}
+
+#coating #wash #wash_img{
+	width:100%;
+	float:left;
+ margin-right:10px;
+}
+
+#coating #wash #wash_txt{
+	width:100%;
+	padding:10px;
+	float:left;
+	clear:both;
+	display:block;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+
+
+#coating .bt_car{
+	width:100%;
+	height:40px;
+	display:block;
+	margin:5px 0;
+	clear:both;
+	line-height:40px;
+	font-weight:bold;
+	font-size:14px;
+	cursor:pointer;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	padding:0 5px;
+}
+#coating .bt_car span{
+  width: 20px;
+  height: 20px;
+  float: left;
+  display: block;
+  color: #000;
+  font-weight: bold;
+  background: #FFFFFF;
+  text-align: center;
+  margin: 10px 5px 10px 0;
+  line-height: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+}
+
+#coating .bt_car_1{background:#D8EFFC;}
+#coating .bt_car_2{background:#F6F3E3;}
+#coating .bt_car_3{background:#EBF0CC;}
+#coating .bt_car_4{background:#E8D7D1;}
+#coating .bt_car_5{background:#EFE5D1;}
+
+/*------------ oil ------------ */
+
+
+#oil{
+	width:100%;
+	float:left;
+}
+
+#oil #oilpro{
+	width:100%;
+	float:left;
+	background:#E6E6E6;
+	padding:10px;
+	margin:10px 0 10px 0;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#oil #oilpro .red{
+	color:#FF0000;
+}
+
+#oil .rdd{
+	font-size:15px;
+	font-weight:bold;
+	color:#F00;
+}
+
+	
+#oil #r_oil{
+	width:100%;
+	margin:10px 0 20px 0;
+	float:left;
+	display:block;
+	clear:both;
+}
+
+#oil #r_oil #r_oil_img{
+	width:100%;
+	float:left;
+	padding:0 10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#oil #r_oil #r_oil_txt{
+	width:100%;
+	float:left;
+	padding:0 10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#oil #oilpro .oilpimg{
+	width:100%;
+	float:left;
+	clear:both;
+	display:block;
+	text-align:center;
+	margin:5px 0;
+}
+
+#oilcon{
+	width:100%;
+	float:left;
+	display:block;
+	clear:both;
+	margin:10px 0;
+}
+
+#oilcon ul{
+	margin:0;
+	padding:0;
+}
+
+#oilcon ul li{
+	width:100%;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	float:left;
+	padding:10px;
+	line-height:18px;
+}
+
+#oilcon ul li img{
+	width:100%;
+}
+
+#oilcon ul li strong{
+	text-align:center;
+	width:100%;
+	float:left;
+	font-weight:bold;
+	font-size:16px;
+	padding:5px 0;
+	color:#C1272D;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#oilcon ul li a{
+	width:100%;
+	float:left;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	background:#3755A0;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:19px;
+	border: 0;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	margin-bottom:10px;
+	text-decoration:none;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	appearance:none;
+	margin:5px 0;
+}
+
+
+	
+
+
+#oilcon ul li img{
+	margin-bottom:5px;
+}
+
+
+#ques{
+	width:100%;
+	float:left;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	background:#CCC;
+	margin-bottom:20px;
+}
+
+#ques h1{
+	background:#110077;
+	color:#FFF;
+	font-size:14px;
+	text-align:center;
+	margin:0;
+	width:100%;
+	float:left;
+}
+
+#ques p{
+	background:#3755A0;
+	color:#FFF;
+	font-size:12px;
+	padding:10px;
+	width:100%;
+	float:left;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#ques .qusin{
+	width:100%;
+	float:left;
+	margin:10px 0;
+	display:block;
+}
+
+#ques .bgy{
+	width:40%;
+	height:50px;
+	line-height:50px;
+	margin:5px 5%;
+	cursor:pointer;
+	text-align:center;
+	background:#28A772;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:19px;
+	border: 0;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	margin-bottom:10px;
+	text-decoration:none;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	float:left;
+}
+
+#ques .bgn{
+	width:40%;
+	height:50px;
+	line-height:50px;
+	margin:5px 5%;
+	cursor:pointer;
+	text-align:center;
+	background:#F00;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:19px;
+	border: 0;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	margin-bottom:10px;
+	text-decoration:none;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	float:right;
+}
+
+#ques .bgy:hover,#ques .bgn:hover{
+	color:#FF0;
+}
+
+#ques #ans{
+	margin-top:10px;
+	width:100% !important;
+	display:none;
+}
+
+
+
+
+
+#ques #q2-1,#ques #q2-2,#ques #q3-1,#ques #q3-2,#ques #q3-3,#ques #q3-4,#ques #as1,#ques #as2,#ques #as3,#ques #as4,#ques #as5,#ques #as6,#ques #as7,#ques #as8{
+	display:none;
+}
+
+#ques #as1,#ques #as2,#ques #as3,#ques #as4,#ques #as5,#ques #as6,#ques #as7,#ques #as8{
+	width:100%;
+	float:left;
+	margin:0;
+}
+
+#ques .reload{
+	display:none;
+}
+
+#ques .reload a{
+	color:#110077;
+	padding:0 5px;
+	background:#FFF;
+	text-decoration:none;
+}
+
+#ques .reload a:hover{
+	color:#fff;
+	background:#09F;
+}
+
+#oil #oilcheck{
+	width:100%;
+	float:left;
+	background:#000000;
+	clear:both;
+	display:block;
+}
+
+
+#oil #oilcheck{
+	width:100%;
+	float:left;
+	padding:10px;
+	color:#FFF;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	clear:both;
+	display:block;
+	margin-bottom:10px;
+}
+
+#oil #oilcheck h2{
+	font-size:22px;
+	margin-bottom:15px;
+}
+
+#oil #oilchecklist{
+	width:100%;
+	float:left;
+}
+
+
+#oil #oilchecklist{
+	width:100%;
+	float:left;
+	display:block;
+	clear:both;
+	margin:10px 0;
+}
+
+#oil #oilchecklist ul{
+	margin:0;
+	padding:0;
+}
+
+#oil #oilchecklist ul li{
+	width:100%;
+	float:left;
+}
+#oil #oilchecklist ul li p{
+	padding:10px;
+}
+
+#oil #oilchecklist ul li img{
+	width:100%;
+}
+
+
+#oil #oileco{
+	width:100%;
+	float:left;
+	padding:10px;
+	color:#FFF;
+	background:#000000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	margin-bottom:10px;
+}
+
+
+
+#oil #r_eco{
+	width:100%;
+	padding:10px;
+	margin:0;
+	float:left;
+	display:block;
+	clear:both;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#oil #r_eco img{
+	width:100px;
+	margin-right:10px;
+	float:left;
+}
+
+
+#oil #r_eco .redb{
+	margin-bottom:5px;
+	font-size:14px;
+}
+
+#oil #r_eco p{
+	font-size:12px;
+}
+
+#oil .mb10{
+	width:100%;
+	float:left;
+	display:block;
+	margin-bottom:10px;
+}
+
+
+
+
+
+/*------------ tire ------------ */
+
+
+#tire{
+	width:100%;
+	float:left;
+}
+
+
+#tirecon{
+	width:100%;
+	float:left;
+	display:block;
+	clear:both;
+	margin:10px 0;
+}
+
+#tirecon ul{
+	margin:0;
+	padding:0;
+}
+
+#tirecon ul li{
+	width:100%;
+	float:left;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	line-height:18px;
+}
+
+#tirecon ul li img{
+	width:100%;
+}
+
+#tirecon ul li strong{
+	text-align:center;
+	width:100%;
+	float:left;
+	font-weight:bold;
+	font-size:16px;
+	padding:5px 0;
+	color:#C1272D;
+}
+
+#tirecon ul li a{
+	width:100%;
+	float:left;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	background:#3755A0;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:19px;
+	border: 0;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	margin-bottom:10px;
+	text-decoration:none;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	appearance:none;
+	margin:5px 0;
+}
+
+
+	
+
+
+#tirecon ul li img{
+	margin-bottom:5px;
+}
+
+#tirecon ul .bgray{
+	background:#E6E6E6;
+}
+
+#tirecon ul .bgwhite{
+	background:#F5F5F5;
+}
+
+#tirecon ul li .red{
+	width:100%;
+	float:left;
+	color:#FF0000;
+	margin-top:10px;
+	font-weight:bold;
+}
+
+
+#tire #tirecheck{
+	width:100%;
+	float:left;
+	background:#000000;
+	clear:both;
+	display:block;
+	padding:10px;
+	color:#FFFFFF;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	margin-bottom:10px;
+}
+
+
+#tire #tirecheck h2{
+	font-size:22px;
+}
+
+#tire #tirechecklist{
+	width:100%;
+	float:left;
+}
+
+
+#tire #tirechecklist{
+	width:100%;
+	float:left;
+	display:block;
+	clear:both;
+	margin:10px 0;
+}
+
+#tire #tirechecklist ul{
+	margin:0;
+	padding:0;
+}
+
+#tire #tirechecklist li img{
+	width:100%;
+}
+
+#tire #tirechecklist ul li{
+	width:100%;
+	float:left;
+	
+}
+#tire #tirechecklist ul li p{
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	padding:10px;
+}
+
+#tire #tirechecklist ul li .red{
+	width:100%;
+	float:left;
+	margin-top:10px;
+	color:#FF0000;
+	font-size:14px;
+	font-weight:bold;
+}
+
+#tire #tireeco{
+	width:100%;
+	float:left;
+	background:#000000;
+	clear:both;
+	display:block;
+	margin-bottom:10px;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	color:#FFFFFF;
+}
+
+
+#tire #r_eco{
+	width:100%;
+	float:left;
+	font-size:14px;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	display:block;
+}
+
+#tire #r_eco p{
+	margin-bottom:10px;
+	font-size:12px;
+}
+
+#tire #r_eco .greb{
+	color:#006837;
+	font-size:16px;
+}
+
+#tire #r_eco .redb{
+	margin-bottom:10px;
+	font-size:14px;
+}
+
+
+#tire #r_eco img{
+	width:100px;
+	margin-right:10px;
+	float:left;
+}
+
+#tire #tableset{
+	width:100%;
+	float:left;
+	margin:10px 0;
+}
+
+
+#tire #tableset table{
+	width:100%;
+	background:#FFFFFF;
+	padding:5px;
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#tire #tableset .bgg{
+	background:#006633;
+	color:#FFFFFF;
+}
+
+#tire #tableset .bgl{
+	border-left:#000000 solid 1px;
+}
+
+#tire #tableset table tr{
+	border-bottom:#000000 solid 1px;
+	border-right:#000000 solid 1px;
+	border-left:#000000 solid 1px;
+}
+
+#tire #ecotire{
+	width:100%;
+	float:left;
+	margin-bottom:10px;
+	display:block;
+	background:#E6E6E6;
+}
+
+#tire #ecotire img{
+	width:100%;
+}
+
+
+#tire #ecotire p{
+	padding:10px;
+}
+
+#tire_price{
+	width:100%;
+	float:left;
+	text-align:center;
+	border-top:solid 1px #000000;
+	border-left:solid 1px #000000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	display:block;
+	clear:both;
+	margin-bottom:10px;
+}
+
+#tire_price tr{
+	border-bottom:solid 1px #000000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+
+#tire_price .bgt1{
+	background:#CCCCCC;
+	border-right:solid 1px #000000;
+	padding:5px 0;
+	font-weight:bold;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	width:150px;
+}
+
+#tire_price .bgt2{
+	background:#D8EFFC;
+	border-right:solid 1px #000000;
+	padding:5px 0;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#tire_price .bgt3{
+	background:#F6F3E3;
+	border-right:solid 1px #000000;
+	padding:5px 0;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+
+
+/*------------ wiper ------------ */
+
+
+#wiper{
+	width:100%;
+	float:left;
+}
+
+#wiper #wiper_head{
+	width:100%;
+        float:left;
+	clear:both;
+	display:block;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	background:#0068B7;
+	color:#FFFFFF;
+}
+
+#wiper #wiper_head img{
+	width:100%;
+}
+
+
+#wiper #aboutwiper{
+	width:100%;
+	float:left;
+	clear:both;
+	display:block;
+	margin-bottom:10px;
+}
+
+#wiper #aboutwiper ul{
+	width:100%;
+	float:left;
+}
+
+#wiper #aboutwiper ul li{
+	width:100%;
+	float:left;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#wiper #aboutwiper ul li img{
+	width:100%;
+}
+
+#wiper #aboutwiper ul .blue{
+	background:#F0F6FB;
+}
+
+#wiper #aboutwiper ul .gray{
+	background:#F5F5F5;
+}
+
+#wiper #aboutwiper ul li .red{
+	width:100%;
+	float:left;
+	text-align:center;
+	font-weight:bold;
+	font-size:18px;
+	color:#C1272D;
+	margin-bottom:5px;
+}
+
+#wiper #aboutwiper ul li .price{
+	width:100%;
+	height:30px;
+	line-height:30px;
+	float:left;
+	padding:0 5px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	margin:5px 0;
+	background:#FF0000;
+	font-weight:bold;
+	font-size:20px;
+	color:#fff;
+}
+
+
+	
+
+/*------------ battery ------------ */
+
+
+#battery{
+	width:100%;
+	float:left;
+}
+
+
+#battery #battery_head{
+	width:100%;
+	float:left;
+	clear:both;
+	display:block;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	background:#C1272D;
+	color:#FFF;
+}
+
+#battery #battery_head img{
+	width:100%;
+}
+
+
+
+#batery_check{
+	width:100%;
+	float:left;
+	display:block;
+	margin-bottom:10px;
+}
+
+
+#batery_check span img{
+	width:30%;
+	float:left;
+	margin-right:10px;
+}
+
+#batery_check p{
+	padding:0 10px;
+}
+
+
+
+#battery_bottom{
+	width:100%;
+	float:left;
+	clear:both;
+	display:block;
+}
+
+#battery_bottom #bboutbattery{
+	width:100%;
+	float:left;
+}
+
+#battery_bottom #bboutbattery li{
+	width:100%;
+	float:left;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#battery_bottom #bboutbattery li h3{
+	width:100%;
+	padding-left:40px;
+	margin-bottom:5px;
+	font-size:20px;
+	line-height:30px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	background:url(../imgsp/battery/battery.jpg) left center no-repeat;
+	background-size:30px;
+}
+
+
+#battery_bottom #battery_img{
+	width:100%;
+	float:left;
+}
+
+
+
+
+/*------------ rentacar ------------ */
+
+
+#rentacar{
+	width:100%;
+	float:left;
+	display:block;
+}
+
+
+#rentacar #notice{
+	width:100%;
+	float:left;
+	border: solid 1px #FF0000;
+	background:#fff6f6;
+	padding:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	margin:10px 0;
+}
+
+#rentacar #notice p, #rentacar #notice h3{
+	color:#FF0000;
+}
+
+#rentacar #mainv{
+	width:100%;
+	float:left;
+	margin-bottom:10px;
+}
+
+#rentacar #mainv .mainv_i{
+	width:100%;
+	float:left;
+}
+
+#rentacar #mainv .mainv_t{
+	width:100%;
+	float:left;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	padding:10px;
+}
+
+
+#rentacar #mainv .btprice{
+	width:100%;
+	float:left;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	background:#008BBB url(../imgsp/rentacar/arrow.png) right bottom no-repeat;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:18px;
+	border: 0;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	margin:10px 0;
+	text-decoration:none;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	appearance:none;
+}
+
+
+
+#rentacar #rentacar_list{
+	width:100%;
+	float:left;
+	margin:0;
+	display:block;
+	clear:both;
+}
+
+#rentacar .pt10{
+	padding:10px;
+	width:100%;
+	float:left;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+
+#rentacar #rentacar_list .prefec{
+	width:100%;
+	height:40px;
+	font-size:18px;
+	font-weight:bold;
+	line-height:40px;
+	padding:0 10px;
+	margin-bottom:10px;
+	cursor:pointer;
+	border-bottom:dashed 1px #AC1F28;
+	border-top:dashed 1px #AC1F28;
+	color:#AC1F28;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+
+
+
+#rentacar #rentacar_list .prefec span{
+ width: 20px;
+  height: 20px;
+  float:left;
+  display:block;
+  color: #fff;
+  font-weight: bold;
+  background: #AC1F28;
+  text-align: center;
+  margin: 10px 5px 10px 0;
+  line-height: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+}
+
+
+#rentacar_list ul{
+	display:none;
+}
+
+
+#rentacar rentacar_list ul{
+	width:100%;
+	float:left;
+}
+
+#rentacar #rentacar_list ul li{
+	width:100%;
+	float:left;
+	margin:10px 0;
+}
+
+#rentacar #rentacar_list ul li h1{
+	width:100%;
+	line-height:30px;
+	padding:5px 10px;
+	font-size:16px;
+	float:left;
+	background:#008BBB;
+	color:#FFFFFF;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+
+
+#rentacar #rentacar_list .btmap{
+	width:100%;
+	background:#1955BD;
+	float:left;
+	color:#FFFFFF;
+	text-decoration:none;
+	padding:0 10px;
+	text-align:center;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+	
+#rentacar #rentacar_list #resa{
+	width:100%;
+	float:left;
+	padding:5px 10px;
+	border-bottom:solid 1px #008BBB;
+	border-right:solid 1px #008BBB;
+	border-left:solid 1px #008BBB;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#rentacar #rentacar_list #resa p{
+	width:100%;
+	float:left;
+	margin-bottom:5px;
+}
+
+#rentacar #rentacar_list #resa a{
+	width:100%;
+	float:left;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	background:#28A772;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:12px;
+	border: 0;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	margin-bottom:10px;
+	text-decoration:none;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	appearance:none;
+}
+
+
+
+
+/*------------ alignment ------------ */
+
+
+#alignment{
+	width:100%;
+	float:left;
+}
+
+#alignment .alig{
+	width:100%;
+	padding:10px;
+	font-size:14px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	background:#F0F6FB url(../imgsp/alignment/bg.png) no-repeat left center;
+}
+	
+#alignment .alig_h{
+	font-size:16px;
+	padding:10px;
+}
+
+#alignment #aboutali{
+	width:100%;
+	float:left;
+	display:block;
+	margin-bottom:10px;
+}
+
+#alignment #aboutali li{
+	width:100%;
+	float:left;
+}
+#alignment #aboutali li .im10{
+	padding:10px;
+	width:35%
+}
+
+
+#alignment #aboutali li p{
+	width:55%;
+	float:right;
+	padding:10px 10px 0 0;
+	font-size:13px;
+	line-height:16px;
+}
+
+#ali_price{
+	width:100%;
+	margin:10px auto;
+	border-top:solid 1px #000000;
+	border-right:solid 1px #000000;
+	text-align:center;
+	font-weight:bold;
+}
+
+#ali_price tr{
+	border-bottom:solid 1px #000000;
+	border-left:solid 1px #000000;
+}
+
+#ali_price .gr{
+	background:#EEEFEF;
+	padding:5px;
+}
+
+#ali_price .bl{
+	background:#D8EFFC;
+	border-left:solid 1px #000000;
+}
+
+#ali_price .gr{
+	background:#EBF0CC;
+	border-left:solid 1px #000000;
+}
+
+#oilp{
+	width:100%;
+	float:left;
+	text-align:center;
+	border-top:solid 1px #000000;
+	border-left:solid 1px #000000;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	margin:5px 0;
+}
+
+#oilp tr{
+	border-bottom:solid 1px #000000;
+}
+
+
+#oilp .bgt1{
+	background:#CCCCCC;
+	border-right:solid 1px #000000;
+	padding:5px;
+	font-weight:bold;
+}
+
+#oilp .bgt2{
+	background:#D8EFFC;
+	border-right:solid 1px #000000;
+	padding:5px;
+}
+
+#oilp .bgt3{
+	background:#F6F3E3;
+	border-right:solid 1px #000000;
+	padding:5px;
+}
+
+/*------------ maintenace ------------ */
+
+#mainte{
+	width:100%;
+	float:left;
+	display:block;
+}
+
+#mainte #tabs{
+	width:100%;
+	padding:0;
+	margin:10px 0 20px 0;
+	border:none;
+}
+
+#mainte #tabs ul{
+	width:100%;
+	background:#fff;
+	border:none;
+	padding:0;
+	margin:0;
+	border-radius:0;
+	-moz-border-radius:0;
+	-webkit-border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#mainte #tabs ul li{
+	font-size:14px;
+	font-weight:bold;
+	margin:0;
+	padding:0;
+	width:25%;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#mainte #tabs ul li a{
+	padding:0 10px;
+	height:40px;
+	text-align:center;
+	width:100%;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#mainte #tabs .lh40{
+	line-height:40px;
+}
+
+
+#mainte .ui-state-active a, #mainte .ui-state-active a:link, #mainte .ui-state-active a:visited{
+	background:#9E9E9E;
+}
+
+#mainte .ui-state-default, #mainte .ui-widget-content #repair .ui-state-default, #repair .ui-widget-header .ui-state-default {
+	background:#E50012;
+	border-right:solid 1px #FFFFFF;
+	border-left:none;
+}
+
+#mainte .ui-state-default a, #mainte .ui-state-default a:link, #mainte .ui-state-default a:visited {
+	color:#FFF;
+}
+
+
+#mainte #tabs .tabp{
+	background:#E6E6E6;
+	color:#000;
+	font-weight:bold;
+	width:100%;
+	float:left;
+	margin:0 0 20px 0;
+	padding:10px;
+	font-size:14px;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#mainte .ui-tabs .ui-tabs-panel{
+	padding:0!important;
+}
+
+
+
+#mainte #t_top p,#mainte #t_top h2{
+	padding:10px;
+}
+
+#mainte p{
+	font-size:13px;
+}
+
+#mainte h2{
+	font-size:14px;
+}
+
+#mainte #t_1c,#mainte #t_2c,#mainte #t_3c{
+	width:100%;
+	margin:0;
+	float:left;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	padding:0 10px;
+}
+
+
+
+#mainte #t_1c1,#mainte #t_3c1{
+	width:100%;
+	float:left;
+}
+
+#mainte #t_3c1 p{
+	width:100%;
+	float:left;
+	padding:0;
+}
+
+#mainte #t_3c1 #t_3c1_img{
+	width:100%;
+	float:left;
+}
+
+
+
+#mainte #t_1c1 p{
+	width:100%;
+	float:left;
+	padding:20px 0;
+}
+
+#mainte #t_1c1 #t_1c1_img{
+	width:100%;
+	float:left;
+}
+
+#mainte #t_1c h3{
+	padding:10px 0;
+}
+
+#mainte #t_1c .red{
+	color:#FF0000;
+}
+
+#mainte #t_block,#mainte #t_block2{
+	width:100%;
+	float:left;
+	margin:10px 0;
+}
+
+#mainte #t_block #bl1,#mainte #t_block2 #bl1{
+	width:100%;
+	float:left;
+}
+
+#mainte #t_block #bl2,#mainte #t_block2 #bl2{
+	width:100%;
+	float:left;
+}
+
+#mainte #t_block2 #bl3{
+	width:100%;
+	float:left;
+	display:block;
+}
+
+#mainte #t_block #bl1 h4,#mainte #t_block #bl2 h4{
+	width:100%;
+	padding:5px;
+	background:#F00;
+	font-size:14px;
+	color:#FFFFFF;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#mainte #t_block2 #bl1 h3,#mainte #t_block2 #bl2 h3,#mainte #t_block2 #bl3 h3{
+	width:100%;
+	padding:5px;
+	font-size:14px;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+#mainte #t_block2 #bl1 p,#mainte #t_block2 #bl2 p,#mainte #t_block2 #bl3 p{
+	background:#C6E5F8;
+	float:left;
+	padding:10px;
+}
+
+#mainte #t_block2 #bl3 .wb{
+	width:100%;
+	padding:0 5px;
+	margin-top:5px;
+	float:left;
+	background:#FFFFFF;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	
+}
+
+#mainte #t_block #bl1 p,#mainte #t_block #bl2 p{
+	margin:5px 5px 0 5px;
+}
+
+#mainte #t_block #bl1 img,#mainte #t_block #bl2 img{
+	width:100px;
+	float:left;
+}
+
+#mainte #blcok4a{
+	width:100%;
+	float:left;
+}
+
+#mainte #blcok4a img{
+	width:100%;
+}
+
+#mainte #blcok4a ul{
+	width:100%;
+	padding:0;
+	margin:0;
+	float:left;
+}
+
+#mainte #blcok4a ul li{
+	width:100%;
+	float:left;
+	margin-right:10px;
+}
+
+#mainte #blcok4a ul li img{
+	margin:5px 0;
+}
+
+#mainte #blcok4a ul li p{
+	font-size:12px;
+	font-weight:normal;
+	padding:0 5px;
+}
+
+#mainte #btac a{
+	color:#FFFFFF;
+}
+
+
+#mainte #t_tire{
+	width:100%;
+	margin:10px 0;
+	float:left;
+}
+
+#mainte #t_tire ul{
+	width:100%;
+	float:left;
+	padding:10px;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#mainte #t_tire ul li{
+	width:100%;
+	border:solid 1px #000000;
+	margin-bottom:10px;
+	padding:10px;
+	float:left;
+	display:block;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#mainte #t_tire li p{
+	font-weight:normal;
+}
+
+#mainte #t_tire li img{
+	width:100px;
+	float:left;
+	margin-right:10px;
+}
+
+#mainte #t_oil{
+	width:100%;
+	float:left;
+	margin:10px 0;
+	display:block;
+	clear:both;
+}
+
+#mainte #t_oil li{
+	width:100%;
+	float:left;
+	display:block;
+}
+
+#t_oil .mr5{
+	margin-right:4px!important;
+}
+
+#mainte #t_oil li h2{
+	width:100%;
+	float:left;
+	display:block;
+}
+
+#mainte #t_oil p{
+	width:100%;
+	padding:5px;
+	display:block;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	float:left;
+	background:#C6E5F8;
+	font-size:12px;
+	font-weight:normal;
+}
+
+#mainte #t_oil2{
+	width:100%;
+	float:left;
+	margin:10px 0;
+	border:#666 solid 1px;
+}
+
+#mainte #t_oil2 #t_oil2_img img{
+	width:100px;
+	float:left;
+	margin-right:10px;
+	margin-top:20px;
+}
+
+#mainte #t_oil2 #t_oil2_txt{
+	padding:5px;
+	font-size:13px;
+}
+
+#mainte #t_oil2 #t_oil2_txt h4{
+	color:#F00;
+	margin-top:5px;
+}
+
+#mainte #t_oil3{
+	width:100%;
+	float:left;
+	margin:10px 0;
+	display:block;
+	clear:both;
+}
+
+
+#mainte #t_oil3 p{
+	width:100%;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	padding:5px;
+	display:block;
+	float:left;
+	background:#C6E5F8;
+	font-size:12px;
+	font-weight:normal;
+}
+
+#mainte #pd10{
+	width:100%;
+	float:left;
+	clear:both;
+	padding:10px;
+	display:block;
+	border-radius:0;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#mainte #pd10 a{
+	color:#FFFFFF;
+}
+
+
+
+/*------------ login ------------ */
+
+
+#login{
+	width:100%;
+	float:left;
+}
+
+#login p{
+	padding:5px 0;
+}
+
+
+#login #loginform{
+	width:100%;
+	padding:10px;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	float:left;
+	background:#F2F2F1;
+	margin-bottom:10px;
+}
+
+#login #log_m{
+	width:100%;
+	float:left;
+}
+
+
+
+
+#login #log_n{
+	width:100%;
+	float:left;
+}
+
+#login #log_n h1,#login #log_m h1{
+	font-size:16px;
+	text-align:left;
+	color:#FF0000;
+}
+
+#login #log_n .reload{
+	float:right;
+	display:none;
+	margin:5px 0;
+}
+
+#login #log_n .reload a{
+	background:#0071BC;
+	color:#FFFFFF;
+	font-size:20px;
+	padding:5px;
+	text-decoration:none;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+}
+
+
+#login #log_n #q1{
+	width:100%;
+	float:left;
+	padding:70px 10px 10px 10px;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	margin:0;
+	background:url(../imgsp/common/login/bg.png) no-repeat #fff;
+	background-size:100% auto;
+	border:solid 1px #FF0000;
+}
+
+#login #log_n #q1 p{
+	font-size:14px;
+	color:#000;
+	font-weight:bold;
+}
+
+#login #log_n #q1 .bgy{
+	width:48%;
+	height:40px;
+	margin-right:10px;
+	font-size:18px;
+	line-height:40px;
+	cursor:pointer;
+	background:#005083;
+	font-weight:bold;
+	text-align:center;
+	color:#FFFFFF;
+	float:left;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+}
+
+
+#login #log_n #q1 .bgn{
+	width:48%;
+	height:40px;
+	font-size:18px;
+	line-height:40px;
+	cursor:pointer;
+	background:#E50012;
+	font-weight:bold;
+	text-align:center;
+	color:#FFFFFF;
+	float:right;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+}
+
+
+
+#login #log_n #a1,#login #log_n #a2{
+	width:100%;
+	float:left;
+	background:#FFFFFF;
+	border-bottom:solid 1px #FF0000;
+	border-right:solid 1px #FF0000;
+	border-left:solid 1px #FF0000;
+	padding:10px;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	display:none;
+}
+
+#login #log_n #a1 p,#login #log_n #a2 p{
+	padding:5px;
+	width:100%;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	font-size:16px;
+}
+
+#login #log_n #qus_bt1,#login #log_n #qus_bt2{
+	width:100%;
+	height:60px;
+	float:left;
+}
+
+#login #log_n #qus_bt1 a{
+	background:#FF0000 url(../imgsp/common/login/arrow.png) no-repeat right bottom;
+	color:#FFFFFF;
+	background-size:20px 20px;
+	text-align:center;
+	width:100%;
+	height:50px;
+	margin:10px 0;
+	line-height:50px;
+	font-size:16px;
+	text-decoration:none;
+	float:left;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+}
+
+
+
+#login #log_n #qus_bt2 a{
+	background:#006633 url(../imgsp/common/login/arrow.png) no-repeat right bottom;
+	color:#FFFFFF;
+	text-align:center;
+	width:100%;
+	height:50px;
+	line-height:50px;
+	font-size:16px;
+	text-decoration:none;
+	float:left;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+}
+
+
+
+#login #log_n #a1 form{
+	width:100%;
+	float:left;
+	padding:10px;
+	margin:0px;
+	background:#F2F2F1;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#login #log_n #a1 form strong{
+	width:100%;
+	float:left;
+	margin-bottom:5px;
+	padding-right:10px;
+	font-weight:bold;
+}
+
+#login #log_n #a1 form input[type="text"]{
+	width:100%;
+	height:30px;
+	margin-bottom:5px;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#login #error{
+	color:#FF0000;
+	border:dashed 1px #FF0000;
+	font-weight:bold;
+	padding:5px;
+	width:100%;
+	margin-bottom:10px;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+#login #error li{
+	list-style:disc;
+	margin-left:20px;
+}
+
+#login #log_n #a1 .qus_yoyaku{
+	background:#006633 url(../imgsp/common/login/arrow.png) no-repeat right bottom;
+	color:#FFFFFF;
+	text-align:center;
+	width:100%;
+	height:50px;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	font-weight:bold;
+	line-height:50px;
+	font-size:25px;
+	text-decoration:none;
+	float:left;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border:none;
+	cursor:pointer;
+}
+
